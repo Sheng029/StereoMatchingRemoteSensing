@@ -12,6 +12,7 @@ This repository contains the (testing) codes and trained models for the paper "D
 2. Python 3.7
 3. CUDA 11.2 and cuDNN 8.1.1
 4. TensorFlow (2.5.0rc3)
+
 All models were trained using an RTX 3090 GPU.
 
 
