@@ -1,6 +1,6 @@
 ## Stereo Matching of High-resolution Remote Sensing Images
 
-This repository contains the (testing) codes and trained models for the paper "Dual-Scale Matching Network for Disparity Estimation of High-Resolution Remote Sensing Images" by Sheng He, Ruqin Zhou and Wanshou Jiang*, including:
+This repository contains the (testing) codes and trained models for the paper "Dual-Scale Matching Network for Disparity Estimation of High-Resolution Remote Sensing Images" by Sheng He, Ruqin Zhou, Shenhong Li, San Jiang*, and Wanshou Jiang*, including:
 1. The proposed DSMNet and its variants;
 2. Re-implementation of DenseMapNet;
 3. Re-implementation of StereoNet;
